@@ -37,20 +37,44 @@ Here are some ideas to get you started:
 ---
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
+
 <p align="center">
-  <!-- Icons -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
 </p>
 
 ---
 
 <h2 align="center">🛠️ Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/ksai-krishna/eeg_based_mdd_detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksai-krishna&repo=eeg_based_mdd_detection" alt="EEG Based MDD Detection">
+  </a>
+  <br>
+  <b>EEG Based MDD Detection</b>: A machine learning model for detecting Major Depressive Disorder (MDD) using EEG signal analysis.
+</p>
+
+
 <p align="center">
   <a href="https://github.com/ksai-krishna/new_moms_guide">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksai-krishna&repo=new_moms_guide" alt="New Moms Guide">
@@ -67,13 +91,6 @@ Here are some ideas to get you started:
   <b>CRMS</b>: A Customer Relationship Management System built to enhance business-client interactions with automated communication and data handling.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ksai-krishna/eeg_based_mdd_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksai-krishna&repo=eeg_based_mdd_detection" alt="EEG Based MDD Detection">
-  </a>
-  <br>
-  <b>EEG Based MDD Detection</b>: A machine learning model for detecting Major Depressive Disorder (MDD) using EEG signal analysis.
-</p>
 
 ---
 
