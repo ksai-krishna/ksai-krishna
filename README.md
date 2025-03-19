@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/ksai-krishna?tab=followers">
+<!--   <a href="https://github.com/ksai-krishna?tab=followers"> -->
     <img src="https://img.shields.io/github/followers/ksai-krishna?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksai-krishna&theme=default" alt="Profile Details">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksai-krishna&theme=default" alt="Profile Details"> -->
 </p>
 
 ---
