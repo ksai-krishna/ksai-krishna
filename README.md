@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksai-krishna&theme=default" alt="Profile Details"> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksai-krishna&theme=default" alt="Profile Details">
 </p>
 
 ---
