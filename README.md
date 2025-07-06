@@ -51,14 +51,11 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
   <a href="https://www.postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
 
