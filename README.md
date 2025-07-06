@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
 
